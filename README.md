@@ -1,2 +1,3 @@
 # Learnin-Web-Systems
-general md files for structural learning
+######Lectures
+[L1:Into Spagetti Coding](lessons/spagetti.lessons.md)
