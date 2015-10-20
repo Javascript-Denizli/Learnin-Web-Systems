@@ -3,7 +3,7 @@
 
 [-] Sublime tutorial
   ```
-  http://kemalkanok.com/videos/structure1/lesson2-sublime.mov
+  [L1:Into Spagetti Coding](lessons/spagetti.lessons.md)http://kemalkanok.com/videos/structure1/lesson2-sublime.mov
   ```
   
 [-] Quick html for generation
